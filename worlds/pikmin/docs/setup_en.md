@@ -56,11 +56,11 @@ If you would like to validate your config file to make sure it works, you may do
    - Alternately, navigate to the [Player Settings](../player-settings) page, configure your options,
       and click the "Generate Game" button.
 2. Open the Archipelago Launcher and click "Generate". This will create a zip file in Archipelago/output
-   - You will need to open this .zip to get your .aplm patch file if you are not using the Archipelago website
+   - You will need to open this .zip to get your .appik1 patch file if you are not using the Archipelago website
 3. Navigate to the Archipelago website and go to the Host Game page (top right menu)
 4. Click upload file and pass it the .zip created in your output folder
 5. Click the "Create New Room" link. You are now able to download your patch file from here (as of AP 0.6.2).
-6. Run the ArchipelagoLauncher.exe and click `Open Patch`. Select your `.aplm` patch file.
+6. Run the ArchipelagoLauncher.exe and click `Open Patch`. Select your `.appik1` patch file.
 You will be prompted to locate your Pikmin 1 ISO the first time you do this.
    - This action will automatically run the Pikmin 1 Client (and connect to the webhost if the patch was downloaded from there).
    - The patch will be placed in the same folder as your patch file by default.
@@ -81,7 +81,7 @@ Then you can click connect on the PikminClient so long as the port matches what 
 ### Obtain your patch file and create your ROM
 
 When you join a multiworld game, you will be asked to provide your config file to whoever is hosting. Once that is done,
-the host will provide you with either a link to download your patch file, or with an APLM patch file that they have extracted from the zip. 
+the host will provide you with either a link to download your patch file, or with an APPIK1 patch file that they have extracted from the zip. 
 
 Put your patch file on your desktop or somewhere convenient. Open the ArchipelagoLauncher.exe and click `Open Patch`. 
 This should automatically launch the client, and will also create your ISO in the same place as your patch file. On first time patching, you will be prompted 
