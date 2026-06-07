@@ -34,6 +34,8 @@ should generate your game. Each player of a multiworld will provide their own co
 to enjoy an experience customized for their taste, and different players in the same multiworld can all have different
 options.
 
+- **WARNING**: **DO NOT ENABLE TRAPS, THEY ARE CURRENTLY BROKEN AND WILL PREVENT GENERATION**
+
 ### Where do I get a config file?
 
 Run the ArchipelagoLauncher.exe from your Archipelago install and click `Generate Template Options`.
