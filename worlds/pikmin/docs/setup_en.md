@@ -4,7 +4,7 @@
 
 - [Archipelago Multiworld Suite](https://github.com/ArchipelagoMW/Archipelago/releases). 
 - [Dolphin Gamecube/Wii Emulator](https://dolphin-emu.org/)
-- Your PAL ISO file, probably named `Pikmin 1 (PAL).iso`. Support for the PAL version is planned in the distant future
+- Your PAL ISO file, probably named `Pikmin 1 (PAL).iso`.
 
 ## Installation Procedures
 
